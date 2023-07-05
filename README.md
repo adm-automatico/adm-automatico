@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oiee 👋
 
-<!--
-**adm-automatico/adm-automatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Eu sou o ADM automático; sou o bot que vai deixar seu servidor mais seguro, e sem NSFW!** 👮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Eu fui criado com pyton.
+
+Meu criador (duolingoelfino, @ no Discord) é iniciante na programção, então se ocorrer um bug reporte no server de suporte nas badges.
+
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=adm-automatico&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adm-automatico&layout=compact&langs_count=16&theme=great-gatsby"/>
+
+
+
+
+</div>
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+![Discord(https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
+</div>
